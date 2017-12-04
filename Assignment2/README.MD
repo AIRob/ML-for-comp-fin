@@ -2,6 +2,6 @@ Assignment files for the second homework for ML in computational finance. This a
 continues on from the first homework. We use the same real life data set as in the first homework and try to predict whether a particular
 stock will go up or down. We use different regularizations to our logistic regression objective and compare their performance. 
 
-Assignment Report
+[Assignment Report](https://github.com/iyer-karthik/ML-for-comp-fin/blob/master/Assignment2/Iyer_Karthik_CFRM521_HW2.pdf)
 
-Code
+[Code](https://github.com/iyer-karthik/ML-for-comp-fin/blob/master/Assignment2/Iyer_Karthik_CFRM521_HW2.ipynb)
